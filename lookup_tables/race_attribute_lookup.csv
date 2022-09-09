@@ -1,14 +1,14 @@
 category,attribute_name,calc_type,median_type,attribute_id
 Population,A_Total Population,sum,,B01001A_001
 Population,A_Group Quarter Population,sum,,B26103A_002
-Population,A_Percent Female,normalized,,"B01001A_017, B01001A_001"
-Population,A_Population with Disability,sum_normalized,,"B18101A_003, B18101A_006, B18101A_009, B18101A_001"
+Population,A_Female Population,sum,,B01001A_017
+Population,A_Population with Disability,sum,,"B18101A_003, B18101A_006, B18101A_009"
 Nativity,A_Foreign Born,normalized,,"B06004A_005, B06004A_001"
 Nativity,A_Naturalized,sum_normalized,,"B05003A_006, B05003A_011, B05003A_017, B05003A_022, B05003A_001"
 Household,A_Households,sum,,B11001A_001
 Household,A_Family Households,normalized,,"B11001A_002, B11001A_001"
 Household,A_Non-Family Households,normalized,,"B11001A_007, B11001A_001"
-Household,"A_Single Person Households, % of Total",normalized,,"B11001A_008, B11001A_001"
+Household,A_Single Person Households,normalized,,"B11001A_008, B11001A_001"
 Household,A_Average Household Size,normalized,,"B11002A_001, B11001A_001"
 Household,A_Average Family Household Size,normalized,,"B11002A_002, B11001A_002"
 Age,A_0-4 Years,sum_normalized,,"B01001A_003, B01001A_018, B01001A_001"
@@ -29,7 +29,7 @@ Housing,A_Renter Occupied,normalized,,"B25003A_003, B25003A_001"
 Housing,A_Percent in Same House Last Year,normalized,,"B07004A_002, B07004A_001"
 Population,B_Total Population,sum,,B01001B_001
 Population,B_Group Quarter Population,sum,,B26103B_002
-Population,B_Percent Female,normalized,,"B01001B_017, B01001B_001"
+Population,B_Female Population,sum,,B01001B_017
 Population,B_Foreign Born,normalized,,"B06004B_005, B06004B_001"
 Nativity,B_Naturalized,sum_normalized,,"B05003B_006, B05003B_011, B05003B_017, B05003B_022, B05003B_001"
 Nativity,B_Population with Disability,sum_normalized,,"B18101B_003, B18101B_006, B18101B_009, B18101B_001"
@@ -50,14 +50,14 @@ Educational Attainment,B_Some college or Associate's degree,sum_normalized,,"C15
 Educational Attainment,B_Bachelor's degree or higher,sum_normalized,,"C15002B_006, C15002B_011, C15002B_001"
 Income,B_Per Capita Income,normalized,,"B19025B_001, B01001B_001"
 Income,B_Percent in Poverty,normalized,,"B17001B_002, B17001B_001"
-Employment,B_Unemployed Population,sum,,"C23002B_008, C23002B_013, C2300B_021, C23002B_026"
+Employment,B_Unemployed Population,sum,,"C23002B_008, C23002B_013, C23002B_021, C23002B_026"
 Employment,B_Population in Labor Force,sum,,"C23002B_004, C23002B_011, C23002B_017, C23002B_024"
 Housing,B_Owner Occupied,normalized,,"B25003B_002, B25003B_001"
 Housing,B_Renter Occupied,normalized,,"B25003B_003, B25003B_001"
 Housing,B_Percent in Same House Last Year,normalized,,"B07004B_002, B07004B_001"
 Population,C_Total Population,sum,,B01001C_001
 Population,C_Group Quarter Population,sum,,B26103C_002
-Population,C_Percent Female,normalized,,"B01001C_017, B01001C_001"
+Population,C_Female Population,sum,,B01001C_017
 Population,C_Foreign Born,normalized,,"B06004C_005, B06004C_001"
 Nativity,C_Naturalized,sum_normalized,,"B05003C_006, B05003C_011, B05003C_017, B05003C_022, B05003C_001"
 Nativity,C_Population with Disability,sum_normalized,,"B18101C_003, B18101C_006, B18101C_009, B18101C_001"
@@ -85,7 +85,7 @@ Housing,C_Renter Occupied,normalized,,"B25003C_003, B25003C_001"
 Housing,C_Percent in Same House Last Year,normalized,,"B07004C_002, B07004C_001"
 Population,D_Total Population,sum,,B01001D_001
 Population,D_Group Quarter Population,sum,,B26103D_002
-Population,D_Percent Female,normalized,,"B01001D_017, B01001D_001"
+Population,D_Female Population,sum,,B01001D_017
 Population,D_Foreign Born,normalized,,"B06004D_005, B06004D_001"
 Nativity,D_Naturalized,sum_normalized,,"B05003D_006, B05003D_011, B05003D_017, B05003D_022, B05003D_001"
 Nativity,D_Population with Disability,sum_normalized,,"B18101D_003, B18101D_006, B18101D_009, B18101D_001"
@@ -113,7 +113,7 @@ Housing,D_Renter Occupied,normalized,,"B25003D_003, B25003D_001"
 Housing,D_Percent in Same House Last Year,normalized,,"B07004D_002, B07004D_001"
 Population,H_Total Population,sum,,B01001H_001
 Population,H_Group Quarter Population,sum,,B26103H_002
-Population,H_Percent Female,normalized,,"B01001H_017, B01001H_001"
+Population,H_Female Population,sum,,B01001H_017
 Population,H_Foreign Born,normalized,,"B06004H_005, B06004H_001"
 Nativity,H_Naturalized,sum_normalized,,"B05003H_006, B05003H_011, B05003H_017, B05003H_022, B05003H_001"
 Nativity,H_Population with Disability,sum_normalized,,"B18101H_003, B18101H_006, B18101H_009, B18101H_001"
@@ -141,7 +141,7 @@ Housing,H_Renter Occupied,normalized,,"B25003H_003, B25003H_001"
 Housing,H_Percent in Same House Last Year,normalized,,"B07004H_002, B07004H_001"
 Population,I_Total Population,sum,,B01001I_001
 Population,I_Group Quarter Population,sum,,B26103I_002
-Population,I_Percent Female,normalized,,"B01001I_017, B01001I_001"
+Population,I_Female Population,sum,,B01001I_017
 Population,I_Foreign Born,normalized,,"B06004I_005, B06004I_001"
 Nativity,I_Naturalized,sum_normalized,,"B05003I_006, B05003I_011, B05003I_017, B05003I_022, B05003I_001"
 Nativity,I_Population with Disability,sum_normalized,,"B18101I_003, B18101I_006, B18101I_009, B18101I_001"
@@ -179,3 +179,39 @@ Income,H_Median Household Income,median,median_household_income,"B19001H_002, B1
 Income,H_Median Family Income,median,median_family_income,"B19101H_002, B19101H_003, B19101H_004, B19101H_005, B19101H_006, B19101H_007, B19101H_008, B19101H_009, B19101H_010, B19101H_011, B19101H_012, B19101H_013, B19101H_014, B19101H_015, B19101H_016, B19101H_017"
 Income,I_Median Household Income,median,median_household_income,"B19001I_002, B19001I_003, B19001I_004, B19001I_005, B19001I_006, B19001I_007, B19001I_008, B19001I_009, B19001I_010, B19001I_011, B19001I_012, B19001I_013, B19001I_014, B19001I_015, B19001I_016, B19001I_017"
 Income,I_Median Family Income,median,median_family_income,"B19101I_002, B19101I_003, B19101I_004, B19101I_005, B19101I_006, B19101I_007, B19101I_008, B19101I_009, B19101I_010, B19101I_011, B19101I_012, B19101I_013, B19101I_014, B19101I_015, B19101I_016, B19101I_017"
+Income,B_Household Income (less than 25K),sum_normalized,,"B19001B_002, B19001B_003, B19001B_004, B19001B_005, B19001B_001"
+Income,B_Household Income (25K-50K),sum_normalized,,"B19001B_006, B19001B_007, B19001B_008, B19001B_009, B19001B_010, B19001B_001"
+Income,B_Household Income (50K-75K),sum_normalized,,"B19001B_011, B19001B_012, B19001B_001"
+Income,B_Household Income (75K-100K),normalized,,"B19001B_013, B19001B_001"
+Income,B_Household Income (100K-125K),normalized,,"B19001B_014, B19001B_001"
+Income,B_Household Income (more than 125K),sum_normalized,,"B19001B_015, B19001B_016, B19001B_017, B19001B_001"
+Income,C_Household Income (less than 25K),sum_normalized,,"B19001C_002, B19001C_003, B19001C_004, B19001C_005, B19001C_001"
+Income,C_Household Income (25K-50K),sum_normalized,,"B19001C_006, B19001C_007, B19001C_008, B19001C_009, B19001C_010, B19001C_001"
+Income,C_Household Income (50K-75K),sum_normalized,,"B19001C_011, B19001C_012, B19001C_001"
+Income,C_Household Income (75K-100K),normalized,,"B19001C_013, B19001C_001"
+Income,C_Household Income (100K-125K),normalized,,"B19001C_014, B19001C_001"
+Income,C_Household Income (more than 125K),sum_normalized,,"B19001C_015, B19001C_016, B19001C_017, B19001C_001"
+Income,D_Household Income (less than 25K),sum_normalized,,"B19001D_002, B19001D_003, B19001D_004, B19001D_005, B19001D_001"
+Income,D_Household Income (25K-50K),sum_normalized,,"B19001D_006, B19001D_007, B19001D_008, B19001D_009, B19001D_010, B19001D_001"
+Income,D_Household Income (50K-75K),sum_normalized,,"B19001D_011, B19001D_012, B19001D_001"
+Income,D_Household Income (75K-100K),normalized,,"B19001D_013, B19001D_001"
+Income,D_Household Income (100K-125K),normalized,,"B19001D_014, B19001D_001"
+Income,D_Household Income (more than 125K),sum_normalized,,"B19001D_015, B19001D_016, B19001D_017, B19001D_001"
+Income,H_Household Income (less than 25K),sum_normalized,,"B19001H_002, B19001H_003, B19001H_004, B19001H_005, B19001H_001"
+Income,H_Household Income (25K-50K),sum_normalized,,"B19001H_006, B19001H_007, B19001H_008, B19001H_009, B19001H_010, B19001H_001"
+Income,H_Household Income (50K-75K),sum_normalized,,"B19001H_011, B19001H_012, B19001H_001"
+Income,H_Household Income (75K-100K),normalized,,"B19001H_013, B19001H_001"
+Income,H_Household Income (100K-125K),normalized,,"B19001H_014, B19001H_001"
+Income,H_Household Income (more than 125K),sum_normalized,,"B19001H_015, B19001H_016, B19001H_017, B19001H_001"
+Income,I_Household Income (less than 25K),sum_normalized,,"B19001I_002, B19001I_003, B19001I_004, B19001I_005, B19001I_001"
+Income,I_Household Income (25K-50K),sum_normalized,,"B19001I_006, B19001I_007, B19001I_008, B19001I_009, B19001I_010, B19001I_001"
+Income,I_Household Income (50K-75K),sum_normalized,,"B19001I_011, B19001I_012, B19001I_001"
+Income,I_Household Income (75K-100K),normalized,,"B19001I_013, B19001I_001"
+Income,I_Household Income (100K-125K),normalized,,"B19001I_014, B19001I_001"
+Income,I_Household Income (more than 125K),sum_normalized,,"B19001I_015, B19001I_016, B19001I_017, B19001I_001"
+Income,A_Household Income (less than 25K),sum_normalized,,"B19001A_002, B19001A_003, B19001A_004, B19001A_005, B19001A_001"
+Income,A_Household Income (25K-50K),sum_normalized,,"B19001A_006, B19001A_007, B19001A_008, B19001A_009, B19001A_010, B19001A_001"
+Income,A_Household Income (50K-75K),sum_normalized,,"B19001A_011, B19001A_012, B19001A_001"
+Income,A_Household Income (75K-100K),normalized,,"B19001A_013, B19001A_001"
+Income,A_Household Income (100K-125K),normalized,,"B19001A_014, B19001A_001"
+Income,A_Household Income (more than 125K),sum_normalized,,"B19001A_015, B19001A_016, B19001A_017, B19001A_001"

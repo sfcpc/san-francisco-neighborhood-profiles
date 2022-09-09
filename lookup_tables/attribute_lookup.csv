@@ -1,14 +1,14 @@
 category,attribute_name,calc_type,median_type,attribute_id
 Population,Total Population,sum,,B01001_001
 Population,Group Quarter Population,sum,,B26001_001
-Population,Percent Female,normalized,,"B01001_026, B01001_001"
-Population,Percent with Any Disabilities,normalized,,"B10052_002, B10052_001"
+Population,Female Population,sum,,B01001_026
+Population,Population with Any Disabilities,sum,,B10052_002
 Households,Housholds,sum,,B11001_001
 Households,Family Households,normalized,,"B11001_002, B11001_001"
 Households,Non-Family Households,normalized,,"B11001_007, B11001_001"
-Households,"Single Person Households, % of Total",normalized,,"B11001_008, B11001_001"
-Households,"Households with Children, % of Total",normalized,,"B11005_002, B11001_001"
-Households,"Households with 60 years and older, % of Total",normalized,,"B11006_002, B11001_001"
+Households,Single Person Households,normalized,,"B11001_008, B11001_001"
+Households,Households with Children,normalized,,"B11005_002, B11001_001"
+Households,Households with 60 years and older,normalized,,"B11006_002, B11001_001"
 Households,Senior (65+) living alone,normalized,,"B09020_015, B09020_018, B09020_001"
 Households,Average Household Size,normalized,,"B11002_001, B11001_001"
 Households,Average Family Household Size,normalized,,"B11002_002, B11001_002"
@@ -21,13 +21,9 @@ Race/Ethnicity,Not-listed/Multi-racial,normalized,,"B02001_008, B02001_007, B020
 Race/Ethnicity,% Latino of Any Race,normalized,,"B03001_003, B03001_001"
 Age,0-4 Years,sum_normalized,,"B01001_003, B01001_027, B01001_001"
 Age,5-17 Years,sum_normalized,,"B01001_004, B01001_005, B01001_006, B01001_028, B01001_029, B01001_030, B01001_001"
-Age,18-24 Years,sum_normalized,,"B01001_007, B01001_008, B01001_009, B01001_010, B01001_031, B01001_032, B01001_033, B01001_034, B01001_001"
-Age,25-34 Years,sum_normalized,,"B01001_011, B01001_012, B01001_035, B01001_036, B01001_001"
-Age,35-44 Years,sum_normalized,,"B01001_013, B01001_014, B01001_037, B01001_038, B01001_001"
-Age,45-54 Years,sum_normalized,,"B01001_015, B01001_016, B01001_039, B01001_040, B01001_001"
-Age,55-59 Years,sum_normalized,,"B01001_017, B01001_041, B01001_001"
-Age,60-64 Years,sum_normalized,,"B01001_018, B01001_019, B01001_042, B01001_043, B01001_001"
-Age,65 and older ,sum_normalized,,"B01001_020, B01001_021, B01001_022, B01001_023, B01001_024, B01001_025, B01001_044, B01001_045, B01001_046, B01001_047, B01001_048, B01001_049, B01001_001"
+Age,18-34 Years,sum_normalized,,"B01001_007, B01001_008, B01001_009, B01001_010, B01001_031, B01001_032, B01001_033, B01001_034, B01001_011, B01001_012, B01001_035, B01001_036, B01001_001"
+Age,35-64 Years,sum_normalized,,"B01001_013, B01001_014, B01001_037, B01001_038, B01001_015, B01001_016, B01001_039, B01001_040, B01001_017, B01001_041, B01001_018, B01001_019, B01001_042, B01001_043, B01001_001"
+Age,65 Years and older ,sum_normalized,,"B01001_020, B01001_021, B01001_022, B01001_023, B01001_024, B01001_025, B01001_044, B01001_045, B01001_046, B01001_047, B01001_048, B01001_049, B01001_001"
 Educational Attainment,Less than high school degree,sum_normalized,,"B15003_002, B15003_003, B15003_004, B15003_005, B15003_006, B15003_007, B15003_008, B15003_009, B15003_010, B15003_011, B15003_012, B15003_013, B15003_014, B15003_015, B15003_016, B15003_001"
 Educational Attainment,High school degree or equivalent,sum_normalized,,"B15003_017, B15003_018, B15003_001"
 Educational Attainment,Some college or Associate's degree,sum_normalized,,"B15003_019, B15003_020, B15003_021, B15003_001"
@@ -59,6 +55,8 @@ Housing,"Rented or Sold, Not Occupied",sum_normalized,,"B25004_003, B25004_005, 
 Housing,"For Seasonal, Recreation or Occasional Use",normalized,,"B25004_006, B25004_001"
 Housing,Other Vacant,normalized,,"B25004_008, B25004_001"
 Housing,Percent in Same House Last Year,normalized,,"B07001_017, B07001_001"
+Housing,Same House Last Year,sum,,B07001_017
+Housing,Same House - Total,sum,,B07001_001
 Housing,Percent Housing Overcrowding,sum_normalized,,"B25014_005, B25014_006, B25014_007, B25014_011, B25014_012, B25014_013, B25014_001"
 Structure Type,Single Family Housing,sum_normalized,,"B25024_002, B25024_003, B25024_001"
 Structure Type,2-4 Units,sum_normalized,,"B25024_004, B25024_005, B25024_001"
@@ -88,7 +86,7 @@ Income,Median Family Income (B19113_001),median,median_family_income,"B19101_001
 Income,Per Capita Income,normalized,,"B19025_001, B01001_001"
 Income,Percent in Poverty,normalized,,"B17001_002, B17001_001"
 Income,Household Income (less than 25K),sum_normalized,,"B19001_002, B19001_003, B19001_004, B19001_005, B19001_001"
-Income,Household Income (25K to 50K),sum_normalized,,"B19001_006, B19001_007, B19001_008, B19001_009, B19001_010, B19001_001"
+Income,Household Income (25K-50K),sum_normalized,,"B19001_006, B19001_007, B19001_008, B19001_009, B19001_010, B19001_001"
 Income,Household Income (50K-75K),sum_normalized,,"B19001_011, B19001_012, B19001_001"
 Income,Household Income (75K-100K),normalized,,"B19001_013, B19001_001"
 Income,Household Income (100K-125K),normalized,,"B19001_014, B19001_001"

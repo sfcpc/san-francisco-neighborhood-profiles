@@ -1,13 +1,13 @@
 category,attribute_name,calc_type,median_type,attribute_id
 Population,Total Population,sum,,B01001_001
 Population,Group Quarter Population,sum,,B26001_001
-Population,Percent Female,normalized,,"B01001_026, B01001_001"
+Population,Female Population,sum,,B01001_026
 Households,Housholds,sum,,B11001_001
 Households,Family Households,normalized,,"B11001_002, B11001_001"
 Households,Non-Family Households,normalized,,"B11001_007, B11001_001"
-Households,"Single Person Households, % of Total",normalized,,"B11001_008, B11001_001"
-Households,"Households with Children, % of Total",normalized,,"B11005_002, B11001_001"
-Households,"Households with 60 years and older, % of Total",normalized,,"B11006_002, B11001_001"
+Households,Single Person Households,normalized,,"B11001_008, B11001_001"
+Households,Households with Children,normalized,,"B11005_002, B11001_001"
+Households,Households with 60 years and older,normalized,,"B11006_002, B11001_001"
 Houshold,Senior (65+) living alone,none,,B01001_001
 Households,Average Household Size,normalized,,"B11002_001, B11001_001"
 Households,Average Family Household Size,normalized,,"B11002_002, B11001_002"
@@ -20,13 +20,9 @@ Race/Ethnicity,Not-listed/Multi-racial,sum_normalized,,"B02001_008, B02001_007, 
 Race/Ethnicity,Hispanic/Latinx of Any Race,normalized,,"B03001_003, B03001_001"
 Age,0-4 Years,sum_normalized,,"B01001_003, B01001_027, B01001_001"
 Age,5-17 Years,sum_normalized,,"B01001_004, B01001_005, B01001_006, B01001_028, B01001_029, B01001_030, B01001_001"
-Age,18-24 Years,sum_normalized,,"B01001_007, B01001_008, B01001_009, B01001_010, B01001_031, B01001_032, B01001_033, B01001_034, B01001_001"
-Age,25-34 Years,sum_normalized,,"B01001_011, B01001_012, B01001_035, B01001_036, B01001_001"
-Age,35-44 Years,sum_normalized,,"B01001_013, B01001_014, B01001_037, B01001_038, B01001_001"
-Age,45-54 Years,sum_normalized,,"B01001_015, B01001_016, B01001_039, B01001_040, B01001_001"
-Age,55-59 Years,sum_normalized,,"B01001_017, B01001_041, B01001_001"
-Age,60-64 Years,sum_normalized,,"B01001_018, B01001_019, B01001_042, B01001_043, B01001_001"
-Age,65 and older ,sum_normalized,,"B01001_020, B01001_021, B01001_022, B01001_023, B01001_024, B01001_025, B01001_044, B01001_045, B01001_046, B01001_047, B01001_048, B01001_049, B01001_001"
+Age,18-34 Years,sum_normalized,,"B01001_007, B01001_008, B01001_009, B01001_010, B01001_031, B01001_032, B01001_033, B01001_034, B01001_011, B01001_012, B01001_035, B01001_036, B01001_001"
+Age,35-64 Years,sum_normalized,,"B01001_013, B01001_014, B01001_037, B01001_038, B01001_015, B01001_016, B01001_039, B01001_040, B01001_017, B01001_041, B01001_018, B01001_019, B01001_042, B01001_043, B01001_001"
+Age,65 Years and older ,sum_normalized,,"B01001_020, B01001_021, B01001_022, B01001_023, B01001_024, B01001_025, B01001_044, B01001_045, B01001_046, B01001_047, B01001_048, B01001_049, B01001_001"
 Educational Attainment,Less than high school degree,sum_normalized,,"B15002_003, B15002_004, B15002_005, B15002_006, B15002_007, B15002_008, B15002_009, B15002_010, B15002_020, B15002_021, B15002_022, B15002_023, B15002_024, B15002_025, B15002_026, B15002_027, B15002_001"
 Educational Attainment,High school degree or equivalent,sum_normalized,,"B15002_011, B15002_028, B15002_001"
 Educational Attainment,Some college or Associate's degree,sum_normalized,,"B15002_012, B15002_013, B15002_014, B15002_029, B15002_030, B15002_031, B15002_001"
@@ -75,7 +71,7 @@ Income,Median Family Income (B19113_001),median,median_family_income,"B19101_001
 Income,Per Capita Income,normalized,,"B19025_001, B01001_001"
 Income,Percent in Poverty,normalized,,"B17001_002, B17001_001"
 Income,Household Income (less than 25K),sum_normalized,,"B19001_002, B19001_003, B19001_004, B19001_005, B19001_001"
-Income,Household Income (25K to 50K),sum_normalized,,"B19001_006, B19001_007, B19001_008, B19001_009, B19001_010, B19001_001"
+Income,Household Income (25K-50K),sum_normalized,,"B19001_006, B19001_007, B19001_008, B19001_009, B19001_010, B19001_001"
 Income,Household Income (50K-75K),sum_normalized,,"B19001_011, B19001_012, B19001_001"
 Income,Household Income (75K-100K),normalized,,"B19001_013, B19001_001"
 Income,Household Income (100K-125K),normalized,,"B19001_014, B19001_001"
