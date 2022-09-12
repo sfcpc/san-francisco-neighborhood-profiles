@@ -1,183 +1,183 @@
 tractid,neighborhood,city
-016400,Hayes Valley,San Francisco
-016100,Western Addition,San Francisco
-015900,Western Addition,San Francisco
-015500,Japantown,San Francisco
-015300,Pacific Heights,San Francisco
-015100,Western Addition,San Francisco
-013400,Pacific Heights,San Francisco
-013200,Pacific Heights,San Francisco
-012100,Nob Hill,San Francisco
-012000,Nob Hill,San Francisco
-011300,Chinatown,San Francisco
-011200,Nob Hill,San Francisco
-012601,Marina,San Francisco
-010900,Russian Hill,San Francisco
-010700,Chinatown,San Francisco
-012502,Tenderloin,San Francisco
-012302,Tenderloin,San Francisco
-012301,Tenderloin,San Francisco
-061200,Bayview Hunters Point,San Francisco
-047802,Outer Richmond,San Francisco
-042601,Outer Richmond,San Francisco
-032902,Sunset/Parkside,San Francisco
-032901,Sunset/Parkside,San Francisco
-032801,Sunset/Parkside,San Francisco
-031301,Oceanview/Merced/Ingleside,San Francisco
-031202,Oceanview/Merced/Ingleside,San Francisco
-022704,Potrero Hill,San Francisco
-017802,South of Market,San Francisco
-017801,South of Market,San Francisco
-016802,Hayes Valley,San Francisco
-015802,Western Addition,San Francisco
-013102,Pacific Heights,San Francisco
-012902,Marina,San Francisco
-011800,Chinatown,San Francisco
-011700,Financial District/South Beach,San Francisco
-011100,Nob Hill,San Francisco
-011000,Russian Hill,San Francisco
-010800,Nob Hill,San Francisco
-010600,North Beach,San Francisco
+16400,Hayes Valley,San Francisco
+16100,Western Addition,San Francisco
+15900,Western Addition,San Francisco
+15500,Japantown,San Francisco
+15300,Pacific Heights,San Francisco
+15100,Western Addition,San Francisco
+13400,Pacific Heights,San Francisco
+13200,Pacific Heights,San Francisco
+12100,Nob Hill,San Francisco
+12000,Nob Hill,San Francisco
+11300,Chinatown,San Francisco
+11200,Nob Hill,San Francisco
+12601,Marina,San Francisco
+10900,Russian Hill,San Francisco
+10700,Chinatown,San Francisco
+12502,Tenderloin,San Francisco
+12302,Tenderloin,San Francisco
+12301,Tenderloin,San Francisco
+61200,Bayview Hunters Point,San Francisco
+47802,Outer Richmond,San Francisco
+42601,Outer Richmond,San Francisco
+32902,Sunset/Parkside,San Francisco
+32901,Sunset/Parkside,San Francisco
+32801,Sunset/Parkside,San Francisco
+31301,Oceanview/Merced/Ingleside,San Francisco
+31202,Oceanview/Merced/Ingleside,San Francisco
+22704,Potrero Hill,San Francisco
+17802,South of Market,San Francisco
+17801,South of Market,San Francisco
+16802,Hayes Valley,San Francisco
+15802,Western Addition,San Francisco
+13102,Pacific Heights,San Francisco
+12902,Marina,San Francisco
+11800,Chinatown,San Francisco
+11700,Financial District,San Francisco
+11100,Nob Hill,San Francisco
+11000,Russian Hill,San Francisco
+10800,Nob Hill,San Francisco
+10600,North Beach,San Francisco
 980501,McLaren Park,San Francisco
 980200,Lincoln Park,San Francisco
-010400,North Beach,San Francisco
-012401,Tenderloin,San Francisco
-010300,Russian Hill,San Francisco
+10400,North Beach,San Francisco
+12401,Tenderloin,San Francisco
+10300,Russian Hill,San Francisco
 980300,Golden Gate Park,San Francisco
-061400,Potrero Hill,San Francisco
-061100,Chinatown,San Francisco
-047801,Outer Richmond,San Francisco
-042602,Outer Richmond,San Francisco
-033204,Lakeshore,San Francisco
-033203,Lakeshore,San Francisco
-032802,Sunset/Parkside,San Francisco
-032602,Sunset/Parkside,San Francisco
-032601,Sunset/Parkside,San Francisco
-031302,Oceanview/Merced/Ingleside,San Francisco
-012201,Tenderloin,San Francisco
-011902,Nob Hill,San Francisco
-060502,Visitacion Valley,San Francisco
-016200,Hayes Valley,San Francisco
-016500,Lone Mountain/USF,San Francisco
-016300,Hayes Valley,San Francisco
-016000,Western Addition,San Francisco
-015700,Lone Mountain/USF,San Francisco
-015600,Lone Mountain/USF,San Francisco
-020700,Mission,San Francisco
-015400,Presidio Heights,San Francisco
-015200,Pacific Heights,San Francisco
-013500,Pacific Heights,San Francisco
-013300,Presidio Heights,San Francisco
-013000,Marina,San Francisco
-012800,Marina,San Francisco
-047902,Outer Richmond,San Francisco
-021400,Noe Valley,San Francisco
-021300,Noe Valley,San Francisco
-021100,Noe Valley,San Francisco
-020900,Mission,San Francisco
-020300,Castro/Upper Market,San Francisco
-020100,Mission,San Francisco
-016900,Castro/Upper Market,San Francisco
-016600,Haight Ashbury,San Francisco
-047702,Outer Richmond,San Francisco
-047600,Outer Richmond,San Francisco
-045200,Inner Richmond,San Francisco
-033000,Sunset/Parkside,San Francisco
-042800,Seacliff,San Francisco
-040200,Inner Richmond,San Francisco
-040100,Inner Richmond,San Francisco
-031400,Oceanview/Merced/Ingleside,San Francisco
-031100,West of Twin Peaks,San Francisco
-012202,Tenderloin,San Francisco
-035400,Sunset/Parkside,San Francisco
-035201,Sunset/Parkside,San Francisco
-035100,Sunset/Parkside,San Francisco
-033100,Sunset/Parkside,San Francisco
-031000,West of Twin Peaks,San Francisco
-030900,West of Twin Peaks,San Francisco
-030700,West of Twin Peaks,San Francisco
-030600,West of Twin Peaks,San Francisco
-030500,Twin Peaks,San Francisco
-030302,Inner Sunset,San Francisco
-033201,Lakeshore,San Francisco
-011901,Nob Hill,San Francisco
-030301,Inner Sunset,San Francisco
-030102,Inner Sunset,San Francisco
-030101,Inner Sunset,San Francisco
-026403,Visitacion Valley,San Francisco
-026401,Visitacion Valley,San Francisco
-026303,Excelsior,San Francisco
-026402,Visitacion Valley,San Francisco
-026200,Outer Mission,San Francisco
-026100,Outer Mission,San Francisco
-026004,Excelsior,San Francisco
-025900,Portola,San Francisco
-013101,Pacific Heights,San Francisco
-025800,Portola,San Francisco
-031201,Oceanview/Merced/Ingleside,San Francisco
-025702,Portola,San Francisco
-025701,Portola,San Francisco
-012901,Marina,San Francisco
-012501,Tenderloin,San Francisco
-012402,Tenderloin,San Francisco
-020402,Twin Peaks,San Francisco
-020401,Castro/Upper Market,San Francisco
-017102,Haight Ashbury,San Francisco
-017101,Haight Ashbury,San Francisco
-016801,Hayes Valley,San Francisco
-015801,Western Addition,San Francisco
-023003,Bayview Hunters Point,San Francisco
-060400,Lakeshore,San Francisco
-045100,Inner Richmond,San Francisco
-042700,Outer Richmond,San Francisco
-060100,Presidio,San Francisco
-035300,Sunset/Parkside,San Francisco
-047901,Outer Richmond,San Francisco
-047701,Outer Richmond,San Francisco
-035202,Sunset/Parkside,San Francisco
-032700,Sunset/Parkside,San Francisco
-030800,West of Twin Peaks,San Francisco
-030400,West of Twin Peaks,San Francisco
-030202,Inner Sunset,San Francisco
-026404,Visitacion Valley,San Francisco
-030201,Inner Sunset,San Francisco
-026302,Excelsior,San Francisco
-026003,Excelsior,San Francisco
-026301,Excelsior,San Francisco
-026001,Excelsior,San Francisco
-025401,Bernal Heights,San Francisco
-026002,Excelsior,San Francisco
-025200,Bernal Heights,San Francisco
-020600,Castro/Upper Market,San Francisco
-025402,Bernal Heights,San Francisco
-022903,Mission,San Francisco
-022802,Mission,San Francisco
-022901,Mission,San Francisco
-021600,Noe Valley,San Francisco
-022801,Mission,San Francisco
-022702,Potrero Hill,San Francisco
-020500,Castro/Upper Market,San Francisco
-021800,Glen Park,San Francisco
-021700,Glen Park,San Francisco
-021500,Noe Valley,San Francisco
-021200,Noe Valley,San Francisco
-021000,Mission,San Francisco
-020800,Mission,San Francisco
-020200,Mission,San Francisco
-018000,South of Market,San Francisco
-017700,Mission,San Francisco
-017601,South of Market,San Francisco
-017000,Castro/Upper Market,San Francisco
-016700,Haight Ashbury,San Francisco
-017902,Treasure Island,San Francisco
-025600,Excelsior,San Francisco
-025500,Outer Mission,San Francisco
-025403,Bernal Heights,San Francisco
-025300,Bernal Heights,San Francisco
-025100,Bernal Heights,San Francisco
-023001,Bayview Hunters Point,San Francisco
-023400,Bayview Hunters Point,San Francisco
-023300,Bayview Hunters Point,San Francisco
-023102,Bayview Hunters Point,San Francisco
-022902,Mission,San Francisco
-022803,Mission,San Francisco
+61400,Potrero Hill,San Francisco
+61100,Chinatown,San Francisco
+47801,Outer Richmond,San Francisco
+42602,Outer Richmond,San Francisco
+33204,Lakeshore,San Francisco
+33203,Lakeshore,San Francisco
+32802,Sunset/Parkside,San Francisco
+32602,Sunset/Parkside,San Francisco
+32601,Sunset/Parkside,San Francisco
+31302,Oceanview/Merced/Ingleside,San Francisco
+12201,Tenderloin,San Francisco
+11902,Nob Hill,San Francisco
+60502,Visitacion Valley,San Francisco
+16200,Hayes Valley,San Francisco
+16500,Lone Mountain/USF,San Francisco
+16300,Hayes Valley,San Francisco
+16000,Western Addition,San Francisco
+15700,Lone Mountain/USF,San Francisco
+15600,Lone Mountain/USF,San Francisco
+20700,Mission,San Francisco
+15400,Presidio Heights,San Francisco
+15200,Pacific Heights,San Francisco
+13500,Pacific Heights,San Francisco
+13300,Presidio Heights,San Francisco
+13000,Marina,San Francisco
+12800,Marina,San Francisco
+47902,Outer Richmond,San Francisco
+21400,Noe Valley,San Francisco
+21300,Noe Valley,San Francisco
+21100,Noe Valley,San Francisco
+20900,Mission,San Francisco
+20300,Castro/Upper Market,San Francisco
+20100,Mission,San Francisco
+16900,Castro/Upper Market,San Francisco
+16600,Haight Ashbury,San Francisco
+47702,Outer Richmond,San Francisco
+47600,Outer Richmond,San Francisco
+45200,Inner Richmond,San Francisco
+33000,Sunset/Parkside,San Francisco
+42800,Seacliff,San Francisco
+40200,Inner Richmond,San Francisco
+40100,Inner Richmond,San Francisco
+31400,Oceanview/Merced/Ingleside,San Francisco
+31100,West of Twin Peaks,San Francisco
+12202,Tenderloin,San Francisco
+35400,Sunset/Parkside,San Francisco
+35201,Sunset/Parkside,San Francisco
+35100,Sunset/Parkside,San Francisco
+33100,Sunset/Parkside,San Francisco
+31000,West of Twin Peaks,San Francisco
+30900,West of Twin Peaks,San Francisco
+30700,West of Twin Peaks,San Francisco
+30600,West of Twin Peaks,San Francisco
+30500,Twin Peaks,San Francisco
+30302,Inner Sunset,San Francisco
+33201,Lakeshore,San Francisco
+11901,Nob Hill,San Francisco
+30301,Inner Sunset,San Francisco
+30102,Inner Sunset,San Francisco
+30101,Inner Sunset,San Francisco
+26403,Visitacion Valley,San Francisco
+26401,Visitacion Valley,San Francisco
+26303,Excelsior,San Francisco
+26402,Visitacion Valley,San Francisco
+26200,Outer Mission,San Francisco
+26100,Outer Mission,San Francisco
+26004,Excelsior,San Francisco
+25900,Portola,San Francisco
+13101,Pacific Heights,San Francisco
+25800,Portola,San Francisco
+31201,Oceanview/Merced/Ingleside,San Francisco
+25702,Portola,San Francisco
+25701,Portola,San Francisco
+12901,Marina,San Francisco
+12501,Tenderloin,San Francisco
+12402,Tenderloin,San Francisco
+20402,Twin Peaks,San Francisco
+20401,Castro/Upper Market,San Francisco
+17102,Haight Ashbury,San Francisco
+17101,Haight Ashbury,San Francisco
+16801,Hayes Valley,San Francisco
+15801,Western Addition,San Francisco
+23003,Bayview Hunters Point,San Francisco
+60400,Lakeshore,San Francisco
+45100,Inner Richmond,San Francisco
+42700,Outer Richmond,San Francisco
+60100,Presidio,San Francisco
+35300,Sunset/Parkside,San Francisco
+47901,Outer Richmond,San Francisco
+47701,Outer Richmond,San Francisco
+35202,Sunset/Parkside,San Francisco
+32700,Sunset/Parkside,San Francisco
+30800,West of Twin Peaks,San Francisco
+30400,West of Twin Peaks,San Francisco
+30202,Inner Sunset,San Francisco
+26404,Visitacion Valley,San Francisco
+30201,Inner Sunset,San Francisco
+26302,Excelsior,San Francisco
+26003,Excelsior,San Francisco
+26301,Excelsior,San Francisco
+26001,Excelsior,San Francisco
+25401,Bernal Heights,San Francisco
+26002,Excelsior,San Francisco
+25200,Bernal Heights,San Francisco
+20600,Castro/Upper Market,San Francisco
+25402,Bernal Heights,San Francisco
+22903,Mission,San Francisco
+22802,Mission,San Francisco
+22901,Mission,San Francisco
+21600,Noe Valley,San Francisco
+22801,Mission,San Francisco
+22702,Potrero Hill,San Francisco
+20500,Castro/Upper Market,San Francisco
+21800,Glen Park,San Francisco
+21700,Glen Park,San Francisco
+21500,Noe Valley,San Francisco
+21200,Noe Valley,San Francisco
+21000,Mission,San Francisco
+20800,Mission,San Francisco
+20200,Mission,San Francisco
+18000,South of Market,San Francisco
+17700,Mission,San Francisco
+17601,South of Market,San Francisco
+17000,Castro/Upper Market,San Francisco
+16700,Haight Ashbury,San Francisco
+17902,Treasure Island,San Francisco
+25600,Excelsior,San Francisco
+25500,Outer Mission,San Francisco
+25403,Bernal Heights,San Francisco
+25300,Bernal Heights,San Francisco
+25100,Bernal Heights,San Francisco
+23001,Bayview Hunters Point,San Francisco
+23400,Bayview Hunters Point,San Francisco
+23300,Bayview Hunters Point,San Francisco
+23102,Bayview Hunters Point,San Francisco
+22902,Mission,San Francisco
+22803,Mission,San Francisco
