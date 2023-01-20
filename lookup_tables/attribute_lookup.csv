@@ -40,8 +40,8 @@ Linguistic Isolation,% of Spanish-Speaking Households,sum_normalized,,"B16003_00
 Linguistic Isolation,% of Asian-Speaking Households,sum_normalized,,"B16003_006, B16003_011, B16004_001"
 Linguistic Isolation,% of Other European-Speaking Households,sum_normalized,,"B16003_005, B16003_010, B16004_001"
 Linguistic Isolation,% of Households Speaking Other Languages,sum_normalized,,"B16003_007, B16003_012, B16004_001"
-English Proficiency,% Speaking English Very Well of Total,sum_normalized,,"B06007_002, B06007_004, B06007_007, B06007_001"
-English Proficiency, % Speaking English Very Well of Foreign Born,sum_normalized,,"B06007_034, B06007_036, B06007_039, B06007_033"
+English Proficiency,% Speaking English Less than Very Well of Total,sum_normalized,,"B06007_005, B06007_008, B06007_001"
+English Proficiency, % Speaking English Less than Very Well of Foreign Born,sum_normalized,,"B06007_037, B06007_040, B06007_033"
 Housing,Total Number of Units,sum,,B25001_001
 Housing,Units built in 2010 or later,sum_normalized,,"B25034_002, B25034_003, B25034_001"
 Housing,Occupied Units (Number),sum,,"B25007_002, B25007_012"
