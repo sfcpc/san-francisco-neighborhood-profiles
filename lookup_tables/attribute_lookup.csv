@@ -2,7 +2,7 @@ category,attribute_name,calc_type,median_type,attribute_id
 Population,Total Population,sum,,B01001_001
 Population,Group Quarter Population,sum,,B26001_001
 Population,Female Population,sum,,B01001_026
-Population,Population with Any Disabilities,sum,,B10052_002
+Population,% Population with a Disability,sum_normalized,,"B18101_004, B18101_007, B18101_010, B18101_013, B18101_016, B18101_019, B18101_023, B18101_026, B18101_029, B18101_032, B18101_035, B18101_038, B18101_001" 
 Households,Housholds,sum,,B11001_001
 Households,Family Households,normalized,,"B11001_002, B11001_001"
 Households,Non-Family Households,normalized,,"B11001_007, B11001_001"
