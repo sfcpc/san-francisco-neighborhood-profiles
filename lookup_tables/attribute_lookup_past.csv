@@ -43,10 +43,10 @@ English Proficiency,% Speaking English Very Well of Total,sum_normalized,,"B0600
 English Proficiency, % Speaking English Very Well of Foreign Born,sum_normalized,,"B06007_034, B06007_036, B06007_039, B06007_033"
 Housing,Total Number of Units,sum,,B25001_001
 Housing,Units built in 2010 or later,sum_normalized,,"B25034_002, B25034_003, B25034_001"
-Housing,Occupied Units (Number),sum,,B25007_002
-Housing,Occupied Units,normalized,,"B25003_001, B25007_001"
-Housing,Owner Occupied,normalized,,"B25007_002, B25007_001"
-Housing,Renter Occupied,normalized,,"B25007_012, B25007_001"
+Housing,Occupied Units (Number),sum,,B25003_001
+Housing,Occupied Units,normalized,,"B25003_001, B25001_001"
+Housing,Owner Occupied,normalized,,"B25003_002, B25003_001"
+Housing,Renter Occupied,normalized,,"B25003_003, B25003_001"
 Housing,Vacant Units,normalized,,"B25004_001, B25001_001"
 Housing,Percent in Same House Last Year,normalized,,"B07001_017, B07001_001"
 Housing,Percent Housing Overcrowding,sum_normalized,,"B25014_005, B25014_006, B25014_007, B25014_011, B25014_012, B25014_013, B25014_001"
