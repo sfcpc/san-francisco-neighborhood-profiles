@@ -1,183 +1,196 @@
-neighborhood,city,GEOID
-Hayes Valley,San Francisco,6075016400
-Western Addition,San Francisco,6075016100
-Western Addition,San Francisco,6075015900
-Japantown,San Francisco,6075015500
-Pacific Heights,San Francisco,6075015300
-Western Addition,San Francisco,6075015100
-Pacific Heights,San Francisco,6075013400
-Pacific Heights,San Francisco,6075013200
-Nob Hill,San Francisco,6075012100
-Nob Hill,San Francisco,6075012000
-Chinatown,San Francisco,6075011300
-Nob Hill,San Francisco,6075011200
-Marina,San Francisco,6075012601
-Russian Hill,San Francisco,6075010900
-Chinatown,San Francisco,6075010700
-Tenderloin,San Francisco,6075012502
-Tenderloin,San Francisco,6075012302
-Tenderloin,San Francisco,6075012301
-Bayview Hunters Point,San Francisco,6075061200
-Outer Richmond,San Francisco,6075047802
-Outer Richmond,San Francisco,6075042601
-Sunset/Parkside,San Francisco,6075032902
-Sunset/Parkside,San Francisco,6075032901
-Sunset/Parkside,San Francisco,6075032801
-Oceanview/Merced/Ingleside,San Francisco,6075031301
-Oceanview/Merced/Ingleside,San Francisco,6075031202
-Potrero Hill,San Francisco,6075022704
-South of Market,San Francisco,6075017802
-South of Market,San Francisco,6075017801
-Hayes Valley,San Francisco,6075016802
-Western Addition,San Francisco,6075015802
-Pacific Heights,San Francisco,6075013102
-Marina,San Francisco,6075012902
-Chinatown,San Francisco,6075011800
-Financial District,San Francisco,6075011700
-Nob Hill,San Francisco,6075011100
-Russian Hill,San Francisco,6075011000
-Nob Hill,San Francisco,6075010800
-North Beach,San Francisco,6075010600
-McLaren Park,San Francisco,6075980501
-Lincoln Park,San Francisco,6075980200
-North Beach,San Francisco,6075010400
-Tenderloin,San Francisco,6075012401
-Russian Hill,San Francisco,6075010300
-Golden Gate Park,San Francisco,6075980300
-Potrero Hill,San Francisco,6075061400
-Chinatown,San Francisco,6075061100
-Outer Richmond,San Francisco,6075047801
-Outer Richmond,San Francisco,6075042602
-Lakeshore,San Francisco,6075033204
-Lakeshore,San Francisco,6075033203
-Sunset/Parkside,San Francisco,6075032802
-Sunset/Parkside,San Francisco,6075032602
-Sunset/Parkside,San Francisco,6075032601
-Oceanview/Merced/Ingleside,San Francisco,6075031302
-Tenderloin,San Francisco,6075012201
-Nob Hill,San Francisco,6075011902
-Visitacion Valley,San Francisco,6075060502
-Hayes Valley,San Francisco,6075016200
-Lone Mountain/USF,San Francisco,6075016500
-Hayes Valley,San Francisco,6075016300
-Western Addition,San Francisco,6075016000
-Lone Mountain/USF,San Francisco,6075015700
-Lone Mountain/USF,San Francisco,6075015600
-Mission,San Francisco,6075020700
-Presidio Heights,San Francisco,6075015400
-Pacific Heights,San Francisco,6075015200
-Pacific Heights,San Francisco,6075013500
-Presidio Heights,San Francisco,6075013300
-Marina,San Francisco,6075013000
-Marina,San Francisco,6075012800
-Outer Richmond,San Francisco,6075047902
-Noe Valley,San Francisco,6075021400
-Noe Valley,San Francisco,6075021300
-Noe Valley,San Francisco,6075021100
-Mission,San Francisco,6075020900
-Castro/Upper Market,San Francisco,6075020300
-Mission,San Francisco,6075020100
-Castro/Upper Market,San Francisco,6075016900
-Haight Ashbury,San Francisco,6075016600
-Outer Richmond,San Francisco,6075047702
-Outer Richmond,San Francisco,6075047600
-Inner Richmond,San Francisco,6075045200
-Sunset/Parkside,San Francisco,6075033000
-Seacliff,San Francisco,6075042800
-Inner Richmond,San Francisco,6075040200
-Inner Richmond,San Francisco,6075040100
-Oceanview/Merced/Ingleside,San Francisco,6075031400
-West of Twin Peaks,San Francisco,6075031100
-Tenderloin,San Francisco,6075012202
-Sunset/Parkside,San Francisco,6075035400
-Sunset/Parkside,San Francisco,6075035201
-Sunset/Parkside,San Francisco,6075035100
-Sunset/Parkside,San Francisco,6075033100
-West of Twin Peaks,San Francisco,6075031000
-West of Twin Peaks,San Francisco,6075030900
-West of Twin Peaks,San Francisco,6075030700
-West of Twin Peaks,San Francisco,6075030600
-Twin Peaks,San Francisco,6075030500
-Inner Sunset,San Francisco,6075030302
-Lakeshore,San Francisco,6075033201
-Nob Hill,San Francisco,6075011901
-Inner Sunset,San Francisco,6075030301
-Inner Sunset,San Francisco,6075030102
-Inner Sunset,San Francisco,6075030101
-Visitacion Valley,San Francisco,6075026403
-Visitacion Valley,San Francisco,6075026401
-Excelsior,San Francisco,6075026303
-Visitacion Valley,San Francisco,6075026402
-Outer Mission,San Francisco,6075026200
-Outer Mission,San Francisco,6075026100
-Excelsior,San Francisco,6075026004
-Portola,San Francisco,6075025900
-Pacific Heights,San Francisco,6075013101
-Portola,San Francisco,6075025800
-Oceanview/Merced/Ingleside,San Francisco,6075031201
-Portola,San Francisco,6075025702
-Portola,San Francisco,6075025701
-Marina,San Francisco,6075012901
-Tenderloin,San Francisco,6075012501
-Tenderloin,San Francisco,6075012402
-Twin Peaks,San Francisco,6075020402
-Castro/Upper Market,San Francisco,6075020401
-Haight Ashbury,San Francisco,6075017102
-Haight Ashbury,San Francisco,6075017101
-Hayes Valley,San Francisco,6075016801
-Western Addition,San Francisco,6075015801
-Bayview Hunters Point,San Francisco,6075023003
-Lakeshore,San Francisco,6075060400
-Inner Richmond,San Francisco,6075045100
-Outer Richmond,San Francisco,6075042700
-Presidio,San Francisco,6075060100
-Sunset/Parkside,San Francisco,6075035300
-Outer Richmond,San Francisco,6075047901
-Outer Richmond,San Francisco,6075047701
-Sunset/Parkside,San Francisco,6075035202
-Sunset/Parkside,San Francisco,6075032700
-West of Twin Peaks,San Francisco,6075030800
-West of Twin Peaks,San Francisco,6075030400
-Inner Sunset,San Francisco,6075030202
-Visitacion Valley,San Francisco,6075026404
-Inner Sunset,San Francisco,6075030201
-Excelsior,San Francisco,6075026302
-Excelsior,San Francisco,6075026003
-Excelsior,San Francisco,6075026301
-Excelsior,San Francisco,6075026001
-Bernal Heights,San Francisco,6075025401
-Excelsior,San Francisco,6075026002
-Bernal Heights,San Francisco,6075025200
-Castro/Upper Market,San Francisco,6075020600
-Bernal Heights,San Francisco,6075025402
-Mission,San Francisco,6075022903
-Mission,San Francisco,6075022802
-Mission,San Francisco,6075022901
-Noe Valley,San Francisco,6075021600
-Mission,San Francisco,6075022801
-Potrero Hill,San Francisco,6075022702
-Castro/Upper Market,San Francisco,6075020500
-Glen Park,San Francisco,6075021800
-Glen Park,San Francisco,6075021700
-Noe Valley,San Francisco,6075021500
-Noe Valley,San Francisco,6075021200
-Mission,San Francisco,6075021000
-Mission,San Francisco,6075020800
-Mission,San Francisco,6075020200
-South of Market,San Francisco,6075018000
-Mission,San Francisco,6075017700
-South of Market,San Francisco,6075017601
-Castro/Upper Market,San Francisco,6075017000
-Haight Ashbury,San Francisco,6075016700
-Treasure Island,San Francisco,6075017902
-Excelsior,San Francisco,6075025600
-Outer Mission,San Francisco,6075025500
-Bernal Heights,San Francisco,6075025403
-Bernal Heights,San Francisco,6075025300
-Bernal Heights,San Francisco,6075025100
-Bayview Hunters Point,San Francisco,6075023001
-Bayview Hunters Point,San Francisco,6075023400
-Bayview Hunters Point,San Francisco,6075023300
-Bayview Hunters Point,San Francisco,6075023102
-Mission,San Francisco,6075022902
-Mission,San Francisco,6075022803
+GEOID,neighborhood
+6075980600,Bayview Hunters Point
+6075980900,Bayview Hunters Point
+6075061200,Bayview Hunters Point
+6075023103,Bayview Hunters Point
+6075061000,Bayview Hunters Point
+6075023003,Bayview Hunters Point
+6075023200,Bayview Hunters Point
+6075023001,Bayview Hunters Point
+6075023400,Bayview Hunters Point
+6075023300,Bayview Hunters Point
+6075023102,Bayview Hunters Point
+6075025401,Bernal Heights
+6075025200,Bernal Heights
+6075025402,Bernal Heights
+6075025403,Bernal Heights
+6075025300,Bernal Heights
+6075025100,Bernal Heights
+6075020300,Castro/Upper Market
+6075016900,Castro/Upper Market
+6075020401,Castro/Upper Market
+6075020600,Castro/Upper Market
+6075020500,Castro/Upper Market
+6075017000,Castro/Upper Market
+6075011300,Chinatown
+6075010700,Chinatown
+6075011800,Chinatown
+6075061100,Chinatown
+6075026303,Excelsior
+6075026004,Excelsior
+6075026302,Excelsior
+6075026003,Excelsior
+6075026301,Excelsior
+6075026001,Excelsior
+6075026002,Excelsior
+6075025600,Excelsior
+6075010500,Financial District/South Beach
+6075061500,Financial District/South Beach
+6075011700,Financial District/South Beach
+6075021800,Glen Park
+6075021700,Glen Park
+6075980300,Golden Gate Park
+6075016600,Haight Ashbury
+6075017102,Haight Ashbury
+6075017101,Haight Ashbury
+6075016700,Haight Ashbury
+6075016400,Hayes Valley
+6075016802,Hayes Valley
+6075016200,Hayes Valley
+6075016300,Hayes Valley
+6075016801,Hayes Valley
+6075045200,Inner Richmond
+6075040200,Inner Richmond
+6075040100,Inner Richmond
+6075045100,Inner Richmond
+6075030302,Inner Sunset
+6075030301,Inner Sunset
+6075030102,Inner Sunset
+6075030101,Inner Sunset
+6075030202,Inner Sunset
+6075030201,Inner Sunset
+6075015500,Japantown
+6075033204,Lakeshore
+6075033203,Lakeshore
+6075033201,Lakeshore
+6075060400,Lakeshore
+6075980200,Lincoln Park
+6075016500,Lone Mountain/USF
+6075015700,Lone Mountain/USF
+6075015600,Lone Mountain/USF
+6075012700,Marina
+6075012601,Marina
+6075012902,Marina
+6075012602,Marina
+6075013000,Marina
+6075012800,Marina
+6075012901,Marina
+6075980501,McLaren Park
+6075020700,Mission
+6075020900,Mission
+6075020100,Mission
+6075022903,Mission
+6075022802,Mission
+6075022901,Mission
+6075022801,Mission
+6075021000,Mission
+6075020800,Mission
+6075020200,Mission
+6075017700,Mission
+6075022902,Mission
+6075022803,Mission
+6075060700,Mission Bay
+6075012100,Nob Hill
+6075012000,Nob Hill
+6075011200,Nob Hill
+6075011100,Nob Hill
+6075010800,Nob Hill
+6075011902,Nob Hill
+6075011901,Nob Hill
+6075021400,Noe Valley
+6075021300,Noe Valley
+6075021100,Noe Valley
+6075021600,Noe Valley
+6075021500,Noe Valley
+6075021200,Noe Valley
+6075010100,North Beach
+6075010600,North Beach
+6075010400,North Beach
+6075031301,Oceanview/Merced/Ingleside
+6075031202,Oceanview/Merced/Ingleside
+6075031302,Oceanview/Merced/Ingleside
+6075031400,Oceanview/Merced/Ingleside
+6075031201,Oceanview/Merced/Ingleside
+6075026200,Outer Mission
+6075026100,Outer Mission
+6075025500,Outer Mission
+6075047802,Outer Richmond
+6075042601,Outer Richmond
+6075047801,Outer Richmond
+6075042602,Outer Richmond
+6075047902,Outer Richmond
+6075047702,Outer Richmond
+6075047600,Outer Richmond
+6075042700,Outer Richmond
+6075047901,Outer Richmond
+6075047701,Outer Richmond
+6075015300,Pacific Heights
+6075013400,Pacific Heights
+6075013200,Pacific Heights
+6075013102,Pacific Heights
+6075015200,Pacific Heights
+6075013500,Pacific Heights
+6075013101,Pacific Heights
+6075025900,Portola
+6075025800,Portola
+6075025702,Portola
+6075025701,Portola
+6075022704,Potrero Hill
+6075061400,Potrero Hill
+6075022600,Potrero Hill
+6075022702,Potrero Hill
+6075060100,Presidio
+6075015400,Presidio Heights
+6075013300,Presidio Heights
+6075010900,Russian Hill
+6075010200,Russian Hill
+6075011000,Russian Hill
+6075010300,Russian Hill
+6075042800,Seacliff
+6075017802,South of Market
+6075017801,South of Market
+6075018000,South of Market
+6075017601,South of Market
+6075032902,Sunset/Parkside
+6075032901,Sunset/Parkside
+6075032801,Sunset/Parkside
+6075032802,Sunset/Parkside
+6075032602,Sunset/Parkside
+6075032601,Sunset/Parkside
+6075033000,Sunset/Parkside
+6075035400,Sunset/Parkside
+6075035201,Sunset/Parkside
+6075035100,Sunset/Parkside
+6075033100,Sunset/Parkside
+6075035300,Sunset/Parkside
+6075035202,Sunset/Parkside
+6075032700,Sunset/Parkside
+6075012502,Tenderloin
+6075012302,Tenderloin
+6075012301,Tenderloin
+6075012401,Tenderloin
+6075012201,Tenderloin
+6075012202,Tenderloin
+6075012501,Tenderloin
+6075012402,Tenderloin
+6075017902,Treasure Island
+6075030500,Twin Peaks
+6075020402,Twin Peaks
+6075060502,Visitacion Valley
+6075026403,Visitacion Valley
+6075026401,Visitacion Valley
+6075026402,Visitacion Valley
+6075026404,Visitacion Valley
+6075031100,West of Twin Peaks
+6075031000,West of Twin Peaks
+6075030900,West of Twin Peaks
+6075030700,West of Twin Peaks
+6075030600,West of Twin Peaks
+6075030800,West of Twin Peaks
+6075030400,West of Twin Peaks
+6075016100,Western Addition
+6075015900,Western Addition
+6075015100,Western Addition
+6075015802,Western Addition
+6075016000,Western Addition
+6075015801,Western Addition
