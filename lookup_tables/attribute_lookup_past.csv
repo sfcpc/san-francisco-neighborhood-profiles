@@ -30,7 +30,7 @@ Educational Attainment,Bachelor's degree or higher,sum_normalized,,"B15002_015, 
 Nativity,Foreign Born,normalized,,"B05002_013, B05002_001"
 Nativity,Naturalized citizens,normalized,,"B05002_014, B05002_001"
 Language Spoken at Home,English Only,sum_normalized,,"B16007_003, B16007_009, B16007_015, B16007_001"
-Language Spoken at Home,Spanish Only,sum_normalized,,"B16007_004, B16007_010, B16007_016, B16007_001"
+Language Spoken at Home,Spanish or Spanish Creole,sum_normalized,,"B16007_004, B16007_010, B16007_016, B16007_001"
 Language Spoken at Home,Asian/Pacific Islander,sum_normalized,,"B16007_006, B16007_012, B16007_018, B16007_001"
 Language Spoken at Home,Other European Languages,sum_normalized,,"B16007_005, B16007_011, B16007_017, B16007_001"
 Language Spoken at Home,Other Languages,sum_normalized,,"B16007_007, B16007_013, B16007_019, B16007_001"
