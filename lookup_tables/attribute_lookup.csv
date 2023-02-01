@@ -113,7 +113,7 @@ Income,Household Income (75K-100K),normalized,,"B19001_013, B19001_001"
 Income,Household Income (100K-125K),normalized,,"B19001_014, B19001_001"
 Income,Household Income (more than 125K),sum_normalized,,"B19001_015, B19001_016, B19001_017, B19001_001"
 Employment,Unemployment Rate,normalized,,"B23025_005, B23025_002"
-Employment,% Female Unemployment Rate,sum,,S2301_C02_023
+Employment,% Female Unemployment Rate,sum,,S2301_C04_023
 Employment,% Female in Labor Force,sum,,S2301_C02_023
 Employment,Employed Residents,sum,,C24050_001
 Employment,Managerial Professional,normalized,,"C24050_015, C24050_001"
