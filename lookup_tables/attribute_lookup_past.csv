@@ -78,8 +78,6 @@ Income,Household Income (50K-75K),sum_normalized,,"B19001_011, B19001_012, B1900
 Income,Household Income (75K-100K),normalized,,"B19001_013, B19001_001"
 Income,Household Income (100K-125K),normalized,,"B19001_014, B19001_001"
 Income,Household Income (more than 125K),sum_normalized,,"B19001_015, B19001_016, B19001_017, B19001_001"
-Employment,Labor Force Participation Rate,normalized,,"B18120_002, B18120_001"
-Employment,Unemployment Rate,normalized,,"B18120_012, B18120_001"
 Journey to Work,Workers 16 Years and Older,sum,,B08006_001
 Journey to Work,Car,normalized,,"B08006_002, B08006_001"
 Journey to Work,Drove Alone,normalized,,"B08006_003, B08006_001"
