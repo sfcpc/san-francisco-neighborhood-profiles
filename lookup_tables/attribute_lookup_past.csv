@@ -61,9 +61,9 @@ Unit Size,5 or More Bedrooms (Number),sum,,B25041_007
 Housing Prices,Median Rent,median,median_rent,"B25063_003, B25063_004, B25063_005, B25063_006, B25063_007, B25063_008, B25063_009, B25063_010, B25063_011, B25063_012, B25063_013, B25063_014, B25063_015, B25063_016, B25063_017, B25063_018, B25063_019, B25063_020, B25063_021, B25063_022, B25063_023"
 Housing Prices,Median Rent as % of Household Income,median,median_rent_percent_of_income,"B25070_002, B25070_003, B25070_004, B25070_005, B25070_006, B25070_007, B25070_008, B25070_009, B25070_010"
 Housing Prices,Median Home Value,median,median_home_value,"B25075_002, B25075_003, B25075_004, B25075_005, B25075_006, B25075_007, B25075_008, B25075_009, B25075_010, B25075_011, B25075_012, B25075_013, B25075_014, B25075_015, B25075_016, B25075_017, B25075_018, B25075_019, B25075_020, B25075_021, B25075_022, B25075_023, B25075_024, B25075_025"
-Housing Prices,Median Rent (B25064, Tract Only),sum,,B25064_001
-Housing Prices,Median Rent as % of Household Income (B25071, Tract Only),sum,,B25071_001
-Housing Prices,Median Home Value (B25077, Tract Only),sum,,B25077_001
+Housing Prices,"Median Rent (B25064, Tract Only)",sum,,B25064_001
+Housing Prices,"Median Rent as % of Household Income (B25071, Tract Only)",sum,,B25071_001
+Housing Prices,"Median Home Value (B25077, Tract Only)",sum,,B25077_001
 Vehicles Available,Vehicles Available,sum,,B25046_001
 Vehicles Available,Vehicles Homeowners,normalized,,"B25046_002, B25046_001"
 Vehicles Available,Vehicles Renters,normalized,,"B25046_003, B25046_001"
