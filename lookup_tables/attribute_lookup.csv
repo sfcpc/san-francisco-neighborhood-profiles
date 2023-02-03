@@ -116,9 +116,9 @@ Income,Household Income (more than 125K),sum_normalized,,"B19001_015, B19001_016
 Employment,Employed Residents,sum,,C24050_001
 Employment,Labor Force Participation Rate,normalized,,"B23025_002, B23025_001"
 Employment,Unemployment Rate,normalized,,"B23025_005, B23025_002"
-Employment,% Female in Labor Force,sum,,DP03_0011P
-Employment,% Female in Civilian Labor Force,sum,,DP03_0012P
-Employment,% Female Employed,sum,,DP03_0013P
+Employment,% Female in Labor Force,sum,,profile/groups/DP03_0011P
+Employment,% Female in Civilian Labor Force,sum,,profile/groups/DP03_0012P
+Employment,% Female Employed,sum,,profile/groups/DP03_0013P
 Employment,Managerial Professional,normalized,,"C24050_015, C24050_001"
 Employment,Services,normalized,,"C24050_029, C24050_001"
 Employment,Sales and Office,normalized,,"C24050_043, C24050_001"
