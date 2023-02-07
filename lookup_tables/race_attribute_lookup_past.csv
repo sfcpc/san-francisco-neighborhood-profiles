@@ -136,7 +136,7 @@
 134,Household,I_Households,sum,,B11001I_001
 135,Household,I_Family Households,normalized,,"B11001I_002, B11001I_001"
 136,Household,I_Non-Family Households,normalized,,"B11001I_007, B11001I_001"
-137,Household,I_Single Person Households_10,normalized,,"B11001I_008, B11001I_001"
+137,Household,I_Single Person Households,normalized,,"B11001I_008, B11001I_001"
 138,Household,I_Average Household Size,normalized,,"B11002I_001, B11001I_001"
 139,Household,I_Average Family Household Size,normalized,,"B11002I_002, B11001I_002"
 140,Age,I_0-4 Years,sum_normalized,,"B01001I_003, B01001I_018, B01001I_001"
