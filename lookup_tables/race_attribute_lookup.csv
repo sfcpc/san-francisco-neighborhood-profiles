@@ -2,7 +2,7 @@
 0,Population,A_Total Population,sum,,B01001A_001
 1,Population,A_Group Quarter Population,sum,,B26103A_002
 2,Population,A_Female Population,sum,,B01001A_017
-3,Population,A_Population with Disability,sum,,"B18101A_003, B18101A_006, B18101A_009"
+3,Population,A_Population with Disability,sum_normalized,,"B18101A_003, B18101A_006, B18101A_009, B18101A_001"
 4,Nativity,A_Foreign Born,normalized,,"B06004A_005, B06004A_001"
 5,Nativity,A_Naturalized,sum_normalized,,"B05003A_006, B05003A_011, B05003A_017, B05003A_022, B05003A_001"
 6,Household,A_Households,sum,,B11001A_001
